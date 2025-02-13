@@ -7,7 +7,14 @@
       "key": "P"
     }
   ],
-  "command-palette:open": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
   "editor:open-link-in-new-leaf": [],
   "easy-typing-obsidian:easy-typing-goto-new-line-after-cur-line": [
     {

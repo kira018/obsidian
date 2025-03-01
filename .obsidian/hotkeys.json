@@ -194,5 +194,14 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": []
 }

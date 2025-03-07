@@ -1,9 +1,7 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "accentColor": "",
-  "enabledCssSnippets": [
-    "github"
-  ],
+  "enabledCssSnippets": [],
   "translucency": false,
   "theme": "moonstone",
   "showRibbon": false

@@ -10,5 +10,6 @@
   },
   "defaultViewMode": "source",
   "livePreview": true,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "promptDelete": false
 }

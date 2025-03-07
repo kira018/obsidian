@@ -179,22 +179,6 @@
       "key": "F"
     }
   ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "Q"
-    }
-  ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "E"
-    }
-  ],
   "editor:insert-table": [
     {
       "modifiers": [
@@ -203,5 +187,14 @@
       "key": "T"
     }
   ],
-  "workspace:new-tab": []
+  "workspace:new-tab": [],
+  "markdown:toggle-preview": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
 }

@@ -11,5 +11,7 @@
   "defaultViewMode": "source",
   "livePreview": true,
   "showIndentGuide": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "foldHeading": false,
+  "foldIndent": false
 }

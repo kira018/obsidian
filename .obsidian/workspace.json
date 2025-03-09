@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/力扣100.md",
+                "file": "计网/http 篇/Get和Post的区别.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "力扣100"
+              "title": "Get和Post的区别"
             }
           }
         ],
@@ -106,13 +106,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/力扣100.md",
+                "file": "计网/http 篇/Get和Post的区别.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "力扣100 的大纲"
+              "title": "Get和Post的区别 的大纲"
             }
           },
           {
@@ -142,8 +142,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,8 +237,10 @@
   },
   "active": "035e931aa3c75d12",
   "lastOpenFiles": [
-    "论文/232399771688+朱毅+springboot基于协同过滤算法的海南旅游推荐系统-初稿.pdf",
+    "计网/http 篇/HTTP 基本概念.md",
+    "计网/http 篇/Get和Post的区别.md",
     "算法/力扣100.md",
+    "论文/232399771688+朱毅+springboot基于协同过滤算法的海南旅游推荐系统-初稿.pdf",
     "周报&日报/3.3-3.7周报.md",
     "选题申报表1.docx",
     "过程管理手册.docx",
@@ -272,7 +273,6 @@
     "性能慢记录排查.md",
     "算法/对数.md",
     "计网/http 篇/HTTPS 解决了 HTTP 的哪些问题？.md",
-    "计网/http 篇/\u0010Get和Post的区别.md",
     "Pasted image 20250212231222.png",
     "Pasted image 20250212231053.png",
     "Pasted image 20250212231010.png",
